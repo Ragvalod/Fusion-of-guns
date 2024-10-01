@@ -1,0 +1,2 @@
+Build path: E:/android/Unity Hub/Fusion-of-guns/Test
+Build number: 9
